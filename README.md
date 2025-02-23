@@ -9,6 +9,7 @@ I primarily use the **Spring Framework**, and I can also work with **JavaScript*
 - **Web Development:** HTML5 🌐, CSS 🎨
 - **Databases:** MySQL 🐬, MariaDB 🐳
 - **Version Control:** SVN 🔧, Git 🐙, GitHub 🐱
+- **DevOps:** Docker 🐋, Linux 🐧
 
 ## 📦 Projects & Portfolio
 ### Project 1: [Vigfoot](https://vigfoot.com) 🌟
