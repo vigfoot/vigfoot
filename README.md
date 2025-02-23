@@ -5,7 +5,7 @@ I primarily use the **Spring Framework**, and I can also work with **JavaScript*
 
 ## 🛠 Tech Stack
 - **Programming Languages:** Java ☕, JavaScript 📜
-- **Frameworks:** Spring Framework 🌱, Spring Boot 🚀
+- **Frameworks:** Spring Framework 🌱, Spring Boot 🚀, MyBatis 🌀
 - **Web Development:** HTML5 🌐, CSS 🎨
 - **Databases:** MySQL 🐬, MariaDB 🐳
 - **Version Control:** SVN 🔧, Git 🐙, GitHub 🐱
