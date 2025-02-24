@@ -2,7 +2,7 @@
 안녕하세요! 👋
 
 I'm **Vigfoot**, a Java Developer with experience since 2020.  
-저는 **Vigfoot**입니다, 2020년부터 경험을 쌓아온 Java 개발자입니다.
+저는 **Vigfoot**입니다, 2020년부터 개발을 시작하게 된 Java 개발자입니다.
 
 I primarily use the **Spring Framework**, and I can also work with **JavaScript** and **CSS**.  
 주로 **Spring Framework**를 사용하며, **JavaScript**와 **CSS**도 다룰 수 있습니다.
