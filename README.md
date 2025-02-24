@@ -9,21 +9,21 @@ I primarily use the **Spring Framework**, and I can also work with **JavaScript*
 
 ## 🛠 Tech Stack
 - **Programming Languages:** Java ☕, JavaScript 📜
-- **Frameworks:** Spring Framework 🌱, Spring Boot 🚀, MyBatis 🌀
+- **Frameworks:** Spring Framework 🌱, Spring Boot 🌱, MyBatis 🌀
 - **Web Development:** HTML5 🌐, CSS 🎨
 - **Databases:** MySQL 🐬, MariaDB 🐳
 - **Version Control:** SVN 🔧, Git 🐙, GitHub 🐱
 - **DevOps:** Docker 🐋, Linux 🐧, AWS - EC2 ☁️, AWS - RDS ☁️, AWS - Route 53 ☁️
 
 ## 📦 Projects & Portfolio
-### Project 1: [Forestfull](https://forestfull.com) 🌟
+### Project 1: [Forestfull](https://forestfull.com) 🚀
 - Description: My company page introducing the overall project.
 - 설명: 프로젝트 전반을 소개하는 저만의 회사 페이지입니다.
 - Tech Stack: HTML5, CSS, JavaScript
 
-### Project 2: [Vigfoot](https://vigfoot.com) 🌟
-- Description: a portfolio website where I showcase my projects and skills.
-- 설명: 저의 프로젝트와 기술을 소개하는 포트폴리오 웹사이트입니다.
+### Project 2: [TypeEffectJS](https://github.com/forestfull/typeeffectjs) 🚀
+- Description: Enables dynamically typing HTML tags.
+- 설명: HTML 태그에 동적으로 타이핑 효과를 적용할 수 있습니다.
 - Tech Stack: HTML5, CSS, JavaScript
 
 ### Project 3: [Log Up](https://github.com/forestfull/logup) 🚀
