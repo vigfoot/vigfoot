@@ -16,22 +16,17 @@ I primarily use the **Spring Framework**, and I can also work with **JavaScript*
 - **DevOps:** Docker 🐋, Linux 🐧, AWS - EC2 ☁️, AWS - RDS ☁️, AWS - Route 53 ☁️
 
 ## 📦 Projects & Portfolio
-### Project 1: [Forestfull](https://forestfull.com) 🚀
-- Description: My company page introducing the overall project.
-- 설명: 프로젝트 전반을 소개하는 저만의 회사 페이지입니다.
-- Tech Stack: HTML5, CSS, JavaScript
-
-### Project 2: [TypeEffectJS](https://github.com/forestfull/typeeffectjs) 🚀
+### Project 1: [TypeEffectJS](https://github.com/forestfull/typeeffectjs) 🚀
 - Description: Enables dynamically typing HTML tags.
 - 설명: HTML 태그에 동적으로 타이핑 효과를 적용할 수 있습니다.
 - Tech Stack: HTML5, CSS, JavaScript
 
-### Project 3: [Log Up](https://github.com/forestfull/logup) 🚀
+### Project 2: [Log Up](https://github.com/forestfull/logup) 🚀
 - Description: A library to make logging in Java projects easy and efficient.
 - 설명: Java 프로젝트에서 로깅을 쉽게 하고 효율적으로 만드는 라이브러리입니다.
 - Tech Stack: Java, Spring Framework
 
-### Project 4: [Cork note](https://mail.forestfull.com) 🚀
+### Project 3: [Cork note](https://mail.forestfull.com) 🚀
 - Description: An SMTP server built using the mailcow framework.
 - 설명: mailcow 프레임워크를 이용해 구축한 SMTP 서버입니다.
 - Tech Stack: Docker, Linux, AWS
