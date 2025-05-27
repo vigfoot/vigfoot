@@ -35,7 +35,7 @@ I primarily use the **Spring Framework**, and I can also work with **JavaScript*
 - Email: [bigfoot7774@gmail.com](mailto:bigfoot7774@gmail.com) 📧
 
 ## 📈 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=forestfull&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vigfoot&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=forestfull&theme=onestar&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vigfoot&theme=onestar&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
