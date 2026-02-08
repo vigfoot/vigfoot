@@ -23,31 +23,6 @@
 
 ---
 
-### 💼 Work Experience
-
-#### **(주) 스마트엠투엠** (2025.04 - 2025.06)
-* **Role**: Backend Solution Maintenance
-* **Achievements**:
-    * 부산항만공사 전자인수도증(e-Gate Pass) 시스템 유지보수 및 운영 지원.
-    * 컨테이너 반출입 프로세스 정합성 검증 및 레거시 모듈 안정화.
-
-#### **(주) 아리모아** (2024.09 - 2025.03)
-* **Role**: 웹 서비스 보안 및 성능 고도화 (대리)
-* **Achievements**:
-    * KISA 가이드라인 기반 **SQL Injection, XSS 취약점 조치** 및 시큐어 코딩 적용.
-    * 레거시 쿼리 튜닝 및 인덱스 최적화를 통한 데이터 조회 속도 개선.
-    * 운영 서버(Linux) 환경 구축 및 MariaDB 성능 튜닝.
-
-#### **(주) 에스위너스** (2021.05 - 2024.06)
-* **Role**: EyeCargo Reefer IoT 관제 시스템 개발 (팀장/대리)
-* **Achievements**:
-    * **Architecture**: Spring Boot 기반 실시간 IoT 데이터 수집/처리 백엔드 설계.
-    * **Concurrency**: Thread Pool & Scheduler를 활용한 **비동기 데이터 처리 엔진(무브먼트 서비스)** 개발.
-    * **Optimization**: 대용량 로그 테이블 파티셔닝 및 트랜잭션 격리 수준 조정을 통한 쓰기 성능 최적화.
-    * **Delivery**: HMM, 남성해운 대상 모바일 대응 SPA 화주 모니터링 서비스 구축 및 납품.
-
----
-
 ### 📦 Open Source Projects
 
 #### 1. [Convert-Type](https://github.com/vigfoot/Convert-Type)
