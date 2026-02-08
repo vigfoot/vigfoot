@@ -1,7 +1,7 @@
 # 👨‍💻 HyeonSeok Ko (VIGFOOT)
 ### Backend Engineer | Open Source Contributor
 
-데이터의 **정합성(Consistency)**을 최우선으로 생각하며, 비즈니스 요구사항을 안정적인 시스템으로 구현하는 4년차 백엔드 개발자입니다. 반복되는 문제를 추상화하여 오픈소스로 해결하는 과정을 즐기며, 실무 기반의 트러블슈팅과 성능 최적화에 강점이 있습니다.
+데이터의 **정합성(Consistency)**을 최우선으로 생각하며, 비즈니스 요구사항을 안정적인 시스템으로 구현하려고 노력하는 백엔드 개발자입니다. 반복되는 문제를 추상화하여 오픈소스로 해결하는 과정을 즐기며, 실무 기반의 트러블슈팅과 성능 최적화에 강점이 있습니다.
 
 ---
 
@@ -17,8 +17,8 @@
 | Category | Skills |
 | :--- | :--- |
 | **Backend** | `Java`, `Spring Boot`, `Spring MVC`, `JPA / Hibernate`, `MyBatis` |
-| **Database** | `MySQL`, `MariaDB`, `Redis` |
-| **Infra & DevOps** | `Linux (CentOS)`, `AWS EC2`, `Docker`, `Nginx` |
+| **Database** | `MySQL`, `MariaDB` |
+| **Infra & DevOps** | `Linux (CentOS)`, `AWS EC2`, `Docker`, `Nginx`, `Apache`, `Tomcat` |
 | **Tools** | `IntelliJ IDEA`, `DataGrip`, `Git / GitHub` |
 
 ---
