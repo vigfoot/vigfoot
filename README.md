@@ -27,19 +27,6 @@
 
 ---
 
-### 📦 Open Source Projects
-
-#### 1. [Convert-Type](https://github.com/vigfoot/Convert-Type)
-* **Description**: Java Reflection 기반의 초경량 DTO-Entity 필드 매핑 유틸리티.
-* **Key Feature**: 다차원 중첩 구조 객체 변환 시의 런타임 타입 안전성을 컴파일 시점에 검증하고 매핑 상용구 코드를 자동화.
-* **Distribution**: [Maven Central](https://mvnrepository.com/artifact/com.vigfoot/convert-type) 등록 및 유지보수 중.
-
-#### 2. [Jasypt Encryptor Tool](https://jasypt.vigfoot.com)
-* **Description**: Spring Boot 설정 파일(`application.yml`) 암호화 검증 웹 툴킷.
-* **Key Feature**: 로컬 개발 머신에 별도 CLI 설치나 복잡한 커맨드 입력 없이, 브라우저 상에서 즉시 설정값의 암/복호화 정합성을 테스트 및 검증할 수 있는 무설치 웹 도구.
-
----
-
 ### 🔗 Contact & Links
 * **Portfolio**: [vigfoot.com](https://vigfoot.com)
 * **GitHub**: [github.com/vigfoot](https://github.com/vigfoot)
