@@ -29,14 +29,14 @@
 
 ### 🔗 Projects & Contact
 
-* **[VIGFOOT Protocol (vigfoot.com)](https://vigfoot.com), (profile.vigfoot.com)](https://profile.vigfoot.com)**
+* **VIGFOOT Protocol ([vigfoot.com](https://vigfoot.com)), ([profile.vigfoot.com](https://profile.vigfoot.com))**
   * **해상 관제 시스템 (Geofence & Dijkstra Dashboard)**
   * **Highlight:** 무거운 외부 지도 API(Google Maps 등)나 공간 데이터베이스(PostGIS)에 의존하지 않고, **HTML5 Canvas와 Pure Java 기반의 Ray-Casting 알고리즘을 직접 구현**하여 렌더링 및 지오펜싱(Point-in-Polygon) 성능을 극대화한 실시간 해상 관제 프로토타입입니다. 백엔드의 부하 분산을 위해 다익스트라(Dijkstra) 연산을 클라이언트 측에 오프로딩(Off-loading)하였으며, Cloudflare WAF와 Spring Security 필터를 융합한 Zero-Trust 보안 방어벽이 적용되어 있습니다.
 
-* **[TTAFJ : Time Travel Algorithm (ttafj.vigfoot.com)](https://ttafj.vigfoot.com)**
+* **TTAFJ : Time Travel Algorithm ([ttafj.vigfoot.com](https://ttafj.vigfoot.com))**
   * **전지적 디버깅(Omniscient Debugging) 기반 알고리즘 시각화 플랫폼**
   * **Highlight:** 기존 재생/정지 위주의 답답한 디버거를 탈피하여, 소스코드의 특정 라인을 클릭하면 즉각적으로 해당 시점의 변수 상태(Snapshot)를 복원해 내는 **타임 트래블(Time-Travel) UX**를 구현한 프로젝트입니다. 무거운 프론트엔드 프레임워크(React/Vue) 없이 바닐라 JS(Vanilla JS)만으로 정교한 MVC 상태 관리를 설계하였으며, 알고리즘의 실행 로그(Trace)를 객체 지향적으로 매핑하여 시각화하는 논리적 렌더링 역량을 증명합니다.
 
-* **[GitHub Repository (github.com/vigfoot)](https://github.com/vigfoot)**
+* **GitHub Repository ([github.com/vigfoot](https://github.com/vigfoot))**
 
 * **Email:** [bigfoot7774@gmail.com]
